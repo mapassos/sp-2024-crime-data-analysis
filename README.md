@@ -8,8 +8,8 @@ conducted data analysis and modeling on the data in ```DCSP.parquet```.
 
 There are two folders in this repository: one containing the data files (excluding shapefiles) and another folder named 
 shapefiles with the shapefiles. The shapefile ```SP_Municipios_2022.zip``` contains data from all the municipalities of 
-the brazilian state of São Paulo whereas ```DISTRITO_MUNICIPAL_SP_SMDU.zip``` contains geographic information of the 
-São Paulo City's districts.
+the brazilian state of São Paulo whereas ```DISTRITO_MUNICIPAL_SP_SMDU.zip``` contains the geographic information about
+the districts of São Paulo City.
 
 ## Objective 
 
