@@ -1,0 +1,4 @@
+full_model/
+__pycache__/
+older_ver/
+.ipynb_checkpoints
